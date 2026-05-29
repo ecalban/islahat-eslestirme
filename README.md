@@ -1,4 +1,4 @@
-# Islahat Eslestirme
+# 19. Yuzyil Islahatlari
 
 19. yuzyil Osmanli Devleti islahatlarini padisahlarla eslestirmek icin hazirlanmis statik alistirma sitesi.
 
